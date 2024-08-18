@@ -51,8 +51,8 @@ The project is organized as follows:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Sandip-Rocks/blog-app.git
+   cd blog-app
    ```
 
 2. Install the dependencies:
